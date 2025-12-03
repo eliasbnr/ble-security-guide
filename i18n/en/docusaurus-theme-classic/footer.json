@@ -1,0 +1,50 @@
+{
+  "link.title.Dokumentation": {
+    "message": "Documentation",
+    "description": "The title of the footer links column with title=Dokumentation in the footer"
+  },
+  "link.title.Ressourcen": {
+    "message": "Resources",
+    "description": "The title of the footer links column with title=Ressourcen in the footer"
+  },
+  "link.title.Extern": {
+    "message": "External",
+    "description": "The title of the footer links column with title=Extern in the footer"
+  },
+  "link.item.label.Tutorials": {
+    "message": "Tutorials",
+    "description": "The label of footer link with label=Tutorials linking to /docs/tutorials/intro"
+  },
+  "link.item.label.BLE Grundlagen": {
+    "message": "BLE Fundamentals",
+    "description": "The label of footer link with label=BLE Grundlagen linking to /docs/reference/ble-basics"
+  },
+  "link.item.label.Fallstudien": {
+    "message": "Case Studies",
+    "description": "The label of footer link with label=Fallstudien linking to /docs/casestudies/overview"
+  },
+  "link.item.label.Downloads": {
+    "message": "Downloads",
+    "description": "The label of footer link with label=Downloads linking to /docs/downloads/scripts"
+  },
+  "link.item.label.Quellen": {
+    "message": "Sources",
+    "description": "The label of footer link with label=Quellen linking to /docs/sources"
+  },
+  "link.item.label.OWASP ISTG": {
+    "message": "OWASP ISTG",
+    "description": "The label of footer link with label=OWASP ISTG linking to https://owasp.org/www-project-iot-security-testing-guide/"
+  },
+  "link.item.label.Bluetooth SIG": {
+    "message": "Bluetooth SIG",
+    "description": "The label of footer link with label=Bluetooth SIG linking to https://www.bluetooth.com/specifications/"
+  },
+  "link.item.label.blatann Docs": {
+    "message": "blatann Docs",
+    "description": "The label of footer link with label=blatann Docs linking to https://blatann.readthedocs.io/"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 BLE Security Guide. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

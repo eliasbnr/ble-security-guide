@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.🔧 Setup": {
+    "message": "🔧 Setup",
+    "description": "The label for category '🔧 Setup' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.📡 Phase 1: Reconnaissance": {
+    "message": "📡 Phase 1: Reconnaissance",
+    "description": "The label for category '📡 Phase 1: Reconnaissance' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.🔍 Phase 2: Aktive Analyse": {
+    "message": "🔍 Phase 2: Active Analysis",
+    "description": "The label for category '🔍 Phase 2: Aktive Analyse' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.📱 Phase 3: App-Analyse": {
+    "message": "📱 Phase 3: App Analysis",
+    "description": "The label for category '📱 Phase 3: App-Analyse' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.💥 Phase 4: Exploitation": {
+    "message": "💥 Phase 4: Exploitation",
+    "description": "The label for category '💥 Phase 4: Exploitation' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.📝 Phase 5: Reporting": {
+    "message": "📝 Phase 5: Reporting",
+    "description": "The label for category '📝 Phase 5: Reporting' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.referenceSidebar.category.🔐 Security": {
+    "message": "🔐 Security",
+    "description": "The label for category '🔐 Security' in sidebar 'referenceSidebar'"
+  },
+  "sidebar.referenceSidebar.category.⚠️ Schwachstellen": {
+    "message": "⚠️ Vulnerabilities",
+    "description": "The label for category '⚠️ Schwachstellen' in sidebar 'referenceSidebar'"
+  },
+  "sidebar.casestudySidebar.category.🕶️ LED Brille": {
+    "message": "🕶️ LED Glasses",
+    "description": "The label for category '🕶️ LED Brille' in sidebar 'casestudySidebar'"
+  },
+  "sidebar.casestudySidebar.category.💡 LED Strips": {
+    "message": "💡 LED Strips",
+    "description": "The label for category '💡 LED Strips' in sidebar 'casestudySidebar'"
+  },
+  "sidebar.casestudySidebar.category.⚖️ Smart Waage": {
+    "message": "⚖️ Smart Scale",
+    "description": "The label for category '⚖️ Smart Waage' in sidebar 'casestudySidebar'"
+  }
+}

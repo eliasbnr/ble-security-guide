@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "BLE Security Guide",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "BLE Security Guide Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.📘 Tutorials": {
+    "message": "📘 Tutorials",
+    "description": "Navbar item with label 📘 Tutorials"
+  },
+  "item.label.🧠 BLE Grundlagen": {
+    "message": "🧠 BLE Fundamentals",
+    "description": "Navbar item with label 🧠 BLE Grundlagen"
+  },
+  "item.label.📂 Downloads": {
+    "message": "📂 Downloads",
+    "description": "Navbar item with label 📂 Downloads"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.🔬 Fallstudien": {
+    "message": "🔬 Case Studies",
+    "description": "Navbar item with label 🔬 Fallstudien"
+  },
+  "item.label.📚 Quellen": {
+    "message": "📚 Sources",
+    "description": "Navbar item with label 📚 Quellen"
+  }
+}

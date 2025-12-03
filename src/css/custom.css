@@ -1,0 +1,131 @@
+/**
+ * Custom CSS for BLE Security Guide
+ */
+
+:root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Emoji in headings */
+h1, h2, h3, h4, h5, h6 {
+  scroll-margin-top: calc(var(--ifm-navbar-height) + 1rem);
+}
+
+/* Code blocks */
+.theme-code-block {
+  margin-bottom: 1.5rem;
+}
+
+/* Tables */
+table {
+  display: table;
+  width: 100%;
+}
+
+table th {
+  background-color: var(--ifm-color-primary-lightest);
+  color: var(--ifm-font-color-base);
+}
+
+[data-theme='dark'] table th {
+  background-color: var(--ifm-color-primary-darkest);
+}
+
+/* Admonitions */
+.admonition {
+  margin-bottom: 1.5rem;
+}
+
+/* Mermaid diagrams */
+.mermaid {
+  margin: 1.5rem 0;
+}
+
+/* Hero section */
+.hero {
+  padding: 4rem 0;
+}
+
+.hero__title {
+  font-size: 3rem;
+}
+
+.hero__subtitle {
+  font-size: 1.5rem;
+  color: var(--ifm-card-background-color);
+}
+
+/* Feature cards */
+.feature-card {
+  padding: 1.5rem;
+  border-radius: 8px;
+  background: var(--ifm-card-background-color);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+}
+
+/* Terminal-like code blocks */
+.language-bash .token-line::before {
+  content: "$ ";
+  color: var(--ifm-color-primary);
+}
+
+/* Badges */
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.badge--critical {
+  background-color: #dc3545;
+  color: white;
+}
+
+.badge--high {
+  background-color: #fd7e14;
+  color: white;
+}
+
+.badge--medium {
+  background-color: #ffc107;
+  color: black;
+}
+
+.badge--low {
+  background-color: #28a745;
+  color: white;
+}
+
+/* Responsive adjustments */
+@media (max-width: 996px) {
+  .hero__title {
+    font-size: 2rem;
+  }
+  
+  .hero__subtitle {
+    font-size: 1.25rem;
+  }
+}
