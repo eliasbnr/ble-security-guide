@@ -13,13 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://ble-security-guide.example.com',
+  url: 'https://ble.eliasbnr.me',
   // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: '/',
 
   // GitHub pages deployment config (if needed)
-  organizationName: 'your-org',
+  organizationName: 'eliasbnr',
   projectName: 'ble-security-guide',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
