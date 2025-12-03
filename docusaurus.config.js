@@ -110,7 +110,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/your-org/ble-security-guide',
+            href: 'https://github.com/eliasbnr/ble-security-guide',
             label: 'GitHub',
             position: 'right',
           },
